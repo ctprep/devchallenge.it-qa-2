@@ -1,0 +1,202 @@
+2018-05-29 23:10:49,155 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2018-05-29 23:10:49,174 INFO o.a.j.JMeter: Loading user properties from: E:\devchallenge.it-qa-2\apache-jmeter-4.0\bin\user.properties
+2018-05-29 23:10:49,175 INFO o.a.j.JMeter: Loading system properties from: E:\devchallenge.it-qa-2\apache-jmeter-4.0\bin\system.properties
+2018-05-29 23:10:49,181 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-05-29 23:10:49,181 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-05-29 23:10:49,181 INFO o.a.j.JMeter: java.version=1.8.0_171
+2018-05-29 23:10:49,181 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-05-29 23:10:49,181 INFO o.a.j.JMeter: os.name=Windows 10
+2018-05-29 23:10:49,182 INFO o.a.j.JMeter: os.arch=amd64
+2018-05-29 23:10:49,182 INFO o.a.j.JMeter: os.version=10.0
+2018-05-29 23:10:49,182 INFO o.a.j.JMeter: file.encoding=Cp1251
+2018-05-29 23:10:49,182 INFO o.a.j.JMeter: Max memory     =1073741824
+2018-05-29 23:10:49,182 INFO o.a.j.JMeter: Available Processors =4
+2018-05-29 23:10:49,186 INFO o.a.j.JMeter: Default Locale=English (EN)
+2018-05-29 23:10:49,187 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2018-05-29 23:10:49,187 INFO o.a.j.JMeter: JMeterHome=E:\devchallenge.it-qa-2\apache-jmeter-4.0
+2018-05-29 23:10:49,187 INFO o.a.j.JMeter: user.dir  =E:\devchallenge.it-qa-2\apache-jmeter-4.0
+2018-05-29 23:10:49,187 INFO o.a.j.JMeter: PWD       =E:\devchallenge.it-qa-2\apache-jmeter-4.0
+2018-05-29 23:10:53,694 INFO o.a.j.JMeter: IP: 10.0.75.1 Name: DESKTOP-RA7RMRG FullName: DESKTOP-RA7RMRG
+2018-05-29 23:10:53,697 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'E:\devchallenge.it-qa-2\apache-jmeter-4.0\..\results\Html'
+2018-05-29 23:10:53,700 INFO o.a.j.s.FileServer: Default base='E:\devchallenge.it-qa-2\apache-jmeter-4.0'
+2018-05-29 23:10:53,710 INFO o.a.j.s.FileServer: Set new base='E:\devchallenge.it-qa-2\apache-jmeter-4.0\..\testplan'
+2018-05-29 23:10:53,869 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-05-29 23:10:53,885 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-05-29 23:10:53,890 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-05-29 23:10:53,896 INFO o.a.j.s.SaveService: Loading file: ..\testplan\openweathermap.jmx
+2018-05-29 23:10:53,929 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2018-05-29 23:10:53,946 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-29 23:10:53,946 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-29 23:10:53,946 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-29 23:10:53,946 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-29 23:10:53,947 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-05-29 23:10:53,947 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-05-29 23:10:54,066 INFO o.a.j.JMeter: Creating summariser <summary>
+2018-05-29 23:10:54,072 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2018-05-29 23:10:54,072 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: ..\results\testResult.csv
+2018-05-29 23:10:54,073 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: E:\devchallenge.it-qa-2\apache-jmeter-4.0\bin\reportgenerator.properties
+2018-05-29 23:10:54,080 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2018-05-29 23:10:54,089 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2018-05-29 23:10:54,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2018-05-29 23:10:54,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction : {} is empty, not APDEX per transaction customization
+2018-05-29 23:10:54,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2018-05-29 23:10:54,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2018-05-29 23:10:54,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2018-05-29 23:10:54,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2018-05-29 23:10:54,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2018-05-29 23:10:54,094 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2018-05-29 23:10:54,099 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,099 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,099 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,099 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,099 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,099 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,099 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,102 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,102 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-05-29 23:10:54,103 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2018-05-29 23:10:54,103 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2018-05-29 23:10:54,103 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2018-05-29 23:10:54,108 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-05-29 23:10:54,111 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-05-29 23:10:54,111 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-05-29 23:10:54,116 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-05-29 23:10:54,116 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-05-29 23:10:54,552 INFO o.a.j.JMeter: Running test (1527624654552)
+2018-05-29 23:10:54,591 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Sign in with correct credential 
+2018-05-29 23:10:54,591 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Sign in with correct credential .
+2018-05-29 23:10:54,591 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,591 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,596 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-05-29 23:10:54,596 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Sign in with incorrect credential 
+2018-05-29 23:10:54,596 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Sign in with incorrect credential .
+2018-05-29 23:10:54,596 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,596 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,597 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2018-05-29 23:10:54,597 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : Sign up without recaptcha
+2018-05-29 23:10:54,597 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Sign up without recaptcha.
+2018-05-29 23:10:54,597 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,597 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,598 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2018-05-29 23:10:54,598 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 4 : Create API key 
+2018-05-29 23:10:54,598 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Create API key .
+2018-05-29 23:10:54,598 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,599 INFO o.a.j.t.ThreadGroup: Starting thread group... number=4 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,599 INFO o.a.j.t.ThreadGroup: Started thread group number 4
+2018-05-29 23:10:54,599 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 5 : Create API key without name 
+2018-05-29 23:10:54,600 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Create API key without name .
+2018-05-29 23:10:54,600 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,600 INFO o.a.j.t.ThreadGroup: Starting thread group... number=5 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,602 INFO o.a.j.t.ThreadGroup: Started thread group number 5
+2018-05-29 23:10:54,602 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 6 : Edit API key 
+2018-05-29 23:10:54,602 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Edit API key .
+2018-05-29 23:10:54,602 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,603 INFO o.a.j.t.ThreadGroup: Starting thread group... number=6 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,604 INFO o.a.j.t.ThreadGroup: Started thread group number 6
+2018-05-29 23:10:54,604 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 7 : Delete API key 
+2018-05-29 23:10:54,604 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Delete API key .
+2018-05-29 23:10:54,604 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,604 INFO o.a.j.t.ThreadGroup: Starting thread group... number=7 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,605 INFO o.a.j.t.ThreadGroup: Started thread group number 7
+2018-05-29 23:10:54,605 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 8 : Logout 
+2018-05-29 23:10:54,605 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Logout .
+2018-05-29 23:10:54,605 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,605 INFO o.a.j.t.ThreadGroup: Starting thread group... number=8 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,606 INFO o.a.j.t.ThreadGroup: Started thread group number 8
+2018-05-29 23:10:54,606 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 9 : Search weather 
+2018-05-29 23:10:54,606 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Search weather .
+2018-05-29 23:10:54,607 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,607 INFO o.a.j.t.ThreadGroup: Starting thread group... number=9 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,608 INFO o.a.j.t.ThreadGroup: Started thread group number 9
+2018-05-29 23:10:54,608 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 10 : Search weather for unexisting city 
+2018-05-29 23:10:54,608 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Search weather for unexisting city .
+2018-05-29 23:10:54,608 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,608 INFO o.a.j.t.ThreadGroup: Starting thread group... number=10 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,609 INFO o.a.j.t.ThreadGroup: Started thread group number 10
+2018-05-29 23:10:54,609 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 11 : Surf the site after login 
+2018-05-29 23:10:54,609 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Surf the site after login .
+2018-05-29 23:10:54,609 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-29 23:10:54,609 INFO o.a.j.t.ThreadGroup: Starting thread group... number=11 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-29 23:10:54,610 INFO o.a.j.t.ThreadGroup: Started thread group number 11
+2018-05-29 23:10:54,610 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-05-29 23:10:54,611 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-05-29 23:10:54,612 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-05-29 23:10:54,612 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-05-29 23:10:54,612 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-05-29 23:10:54,613 INFO o.a.j.t.JMeterThread: Thread started: Sign in with correct credential  1-1
+2018-05-29 23:10:54,614 INFO o.a.j.t.JMeterThread: Thread started: Create API key without name  5-1
+2018-05-29 23:10:54,615 INFO o.a.j.t.JMeterThread: Thread started: Sign in with incorrect credential  2-1
+2018-05-29 23:10:54,617 INFO o.a.j.t.JMeterThread: Thread started: Search weather  9-1
+2018-05-29 23:10:54,619 INFO o.a.j.t.JMeterThread: Thread started: Surf the site after login  11-1
+2018-05-29 23:10:54,620 INFO o.a.j.t.JMeterThread: Thread started: Sign up without recaptcha 3-1
+2018-05-29 23:10:54,621 INFO o.a.j.t.JMeterThread: Thread started: Delete API key  7-1
+2018-05-29 23:10:54,622 INFO o.a.j.t.JMeterThread: Thread started: Edit API key  6-1
+2018-05-29 23:10:54,622 INFO o.a.j.t.JMeterThread: Thread started: Create API key  4-1
+2018-05-29 23:10:54,623 INFO o.a.j.t.JMeterThread: Thread started: Logout  8-1
+2018-05-29 23:10:54,620 INFO o.a.j.t.JMeterThread: Thread started: Search weather for unexisting city  10-1
+2018-05-29 23:10:54,637 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-RA7RMRG
+2018-05-29 23:10:54,642 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2018-05-29 23:10:54,717 INFO o.a.j.p.h.s.LazySchemeSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2018-05-29 23:10:54,725 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2018-05-29 23:10:54,725 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2018-05-29 23:10:55,122 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2018-05-29 23:10:55,123 INFO o.a.j.u.SSLManager: KeyStore created OK
+2018-05-29 23:10:55,124 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2018-05-29 23:10:56,434 INFO o.a.j.t.JMeterThread: Thread is done: Search weather for unexisting city  10-1
+2018-05-29 23:10:56,434 INFO o.a.j.t.JMeterThread: Thread finished: Search weather for unexisting city  10-1
+2018-05-29 23:10:56,863 INFO o.a.j.t.JMeterThread: Thread is done: Sign up without recaptcha 3-1
+2018-05-29 23:10:56,863 INFO o.a.j.t.JMeterThread: Thread finished: Sign up without recaptcha 3-1
+2018-05-29 23:10:57,670 INFO o.a.j.t.JMeterThread: Thread is done: Search weather  9-1
+2018-05-29 23:10:57,670 INFO o.a.j.t.JMeterThread: Thread finished: Search weather  9-1
+2018-05-29 23:11:00,597 INFO o.a.j.t.JMeterThread: Thread is done: Sign in with incorrect credential  2-1
+2018-05-29 23:11:00,597 INFO o.a.j.t.JMeterThread: Thread finished: Sign in with incorrect credential  2-1
+2018-05-29 23:11:01,039 INFO o.a.j.t.JMeterThread: Thread is done: Sign in with correct credential  1-1
+2018-05-29 23:11:01,039 INFO o.a.j.t.JMeterThread: Thread finished: Sign in with correct credential  1-1
+2018-05-29 23:11:01,213 INFO o.a.j.t.JMeterThread: Thread is done: Create API key without name  5-1
+2018-05-29 23:11:01,214 INFO o.a.j.t.JMeterThread: Thread finished: Create API key without name  5-1
+2018-05-29 23:11:01,253 INFO o.a.j.t.JMeterThread: Thread is done: Logout  8-1
+2018-05-29 23:11:01,254 INFO o.a.j.t.JMeterThread: Thread finished: Logout  8-1
+2018-05-29 23:11:01,323 INFO o.a.j.t.JMeterThread: Thread is done: Create API key  4-1
+2018-05-29 23:11:01,324 INFO o.a.j.t.JMeterThread: Thread finished: Create API key  4-1
+2018-05-29 23:11:01,365 INFO o.a.j.t.JMeterThread: Thread is done: Edit API key  6-1
+2018-05-29 23:11:01,366 INFO o.a.j.t.JMeterThread: Thread finished: Edit API key  6-1
+2018-05-29 23:11:01,394 INFO o.a.j.t.JMeterThread: Thread is done: Delete API key  7-1
+2018-05-29 23:11:01,394 INFO o.a.j.t.JMeterThread: Thread finished: Delete API key  7-1
+2018-05-29 23:11:01,634 INFO o.a.j.t.JMeterThread: Thread is done: Surf the site after login  11-1
+2018-05-29 23:11:01,634 INFO o.a.j.t.JMeterThread: Thread finished: Surf the site after login  11-1
+2018-05-29 23:11:01,635 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-05-29 23:11:01,645 INFO o.a.j.r.Summariser: summary =      0 in 00:00:00 = ******/s Avg:     0 Min: 9223372036854775807 Max: -9223372036854775808 Err:     0 (0.00%)
+2018-05-29 23:11:01,647 INFO o.a.j.JMeter: Generating Dashboard
+2018-05-29 23:11:01,647 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2018-05-29 23:11:01,676 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2018-05-29 23:11:01,738 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2018-05-29 23:11:01,739 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2018-05-29 23:11:01,741 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2018-05-29 23:11:01,741 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2018-05-29 23:11:01,744 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2018-05-29 23:11:01,749 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2018-05-29 23:11:01,749 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2018-05-29 23:11:01,749 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2018-05-29 23:11:01,756 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2018-05-29 23:11:01,757 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2018-05-29 23:11:01,757 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2018-05-29 23:11:01,757 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2018-05-29 23:11:01,759 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2018-05-29 23:11:01,759 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 0 samples
+2018-05-29 23:11:01,759 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2018-05-29 23:11:01,759 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2018-05-29 23:11:01,760 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2018-05-29 23:11:01,760 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2018-05-29 23:11:01,760 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2018-05-29 23:11:01,765 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2018-05-29 23:11:01,765 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2018-05-29 23:11:01,765 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2018-05-29 23:11:01,765 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2018-05-29 23:11:01,765 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 154 samples
+2018-05-29 23:11:01,765 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 33 samples
+2018-05-29 23:11:01,765 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 11 samples
+2018-05-29 23:11:01,766 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 11 samples produced in 62ms on channel 0
+2018-05-29 23:11:01,766 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2018-05-29 23:11:01,769 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: E:\devchallenge.it-qa-2\apache-jmeter-4.0\..\results\Html
+2018-05-29 23:11:01,887 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: E:\devchallenge.it-qa-2\apache-jmeter-4.0\..\results\Html, creating folder structure
+2018-05-29 23:11:03,523 INFO o.a.j.JMeter: Dashboard generated

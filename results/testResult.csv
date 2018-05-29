@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1527624654624,1748,Search weather for unexisting city ,200,"Number of samples in transaction : 7, number of failing samples : 0",Search weather for unexisting city  10-1,,true,,17865,4943,1,11,0,61,0
+1527624654621,2176,Sign up without recaptcha,200,"Number of samples in transaction : 2, number of failing samples : 0",Sign up without recaptcha 3-1,,true,,42707,2073,1,10,0,65,0
+1527624654618,2986,Search weather ,200,"Number of samples in transaction : 12, number of failing samples : 0",Search weather  9-1,,true,,29295,8623,1,9,0,65,0
+1527624654616,5892,Sign in with incorrect credential ,200,"Number of samples in transaction : 2, number of failing samples : 0",Sign in with incorrect credential  2-1,,true,,32229,1461,1,8,0,81,0
+1527624654623,6345,Sign in with correct credential ,200,"Number of samples in transaction : 2, number of failing samples : 0",Sign in with correct credential  1-1,,true,,39116,2415,1,7,0,67,0
+1527624654619,6506,Create API key without name ,200,"Number of samples in transaction : 4, number of failing samples : 1",Create API key without name  5-1,,false,,78737,4392,1,6,0,88,0
+1527624654624,6557,Logout ,200,"Number of samples in transaction : 3, number of failing samples : 0",Logout  8-1,,true,,59621,5188,1,5,0,72,0
+1527624654623,6628,Create API key ,200,"Number of samples in transaction : 4, number of failing samples : 0",Create API key  4-1,,true,,80188,5457,1,4,0,72,0
+1527624654622,6671,Edit API key ,200,"Number of samples in transaction : 4, number of failing samples : 0",Edit API key  6-1,,true,,80187,5494,1,3,0,72,0
+1527624654621,6701,Delete API key ,200,"Number of samples in transaction : 4, number of failing samples : 0",Delete API key  7-1,,true,,80188,5453,1,2,0,71,0
+1527624654619,6937,Surf the site after login ,200,"Number of samples in transaction : 7, number of failing samples : 1",Surf the site after login  11-1,,false,,51496,5715,1,1,0,77,0
